@@ -1,0 +1,16 @@
+.dataTable td,
+.dataTable th {
+  border-right: 1px solid #e2e2e2;
+  /* font-size: 12px; */
+}
+
+@media (max-width: 600px) {
+}
+.isYellow {
+  background-color: #fefcbf;
+  /* border: 2px solid #f6e05e; */
+}
+.isRed {
+  background-color: #fed7d7;
+  /* border: 2px solid #f56565; */
+}
